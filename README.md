@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Margo
-- 👀 I’m interested in technology, music and animals
-- 🌱 I’m currently learning computer science in Bunker Hill Community College
+- 👀 I’m interested in technology, music and animals.
+- 🌱 I am a student of Northeastern University with major in Information Technology.
 - 💞️ I’m looking to collaborate on AI projects in the future.
 - 📫 You can reach me by my email kholostova@gmail.com or my phone number +19174605953
 
