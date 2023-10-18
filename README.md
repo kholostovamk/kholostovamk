@@ -5,7 +5,7 @@ Welcome to my GitHub profile! As an IT student at **Northeastern University**, m
 ## 🎓 Education
 
 - **IT Student at Northeastern University**
-    - Focused on AI, WEB3, and crypto technologies.
+    - Inetested in AI, WEB3, and crypto technologies.
 
 ## 🔍 Interests
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! As an IT student at **Northeastern University**, m
 ## 🚀 Projects & Contributions
 
 - **University Courses**: My repository includes all projects and assignments I've undertaken during my academic journey.
-- **Break Through Tech AI Program with MIT**: Proudly collaborated on an AI project which is available on my profile.
+- **Break Through Tech AI Program with MIT**: Proudly collaborated on an AI project that will be available on my profile after completion.
 
 ## 🎯 Career Aspirations
 
