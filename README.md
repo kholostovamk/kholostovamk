@@ -1,31 +1,37 @@
 # Margarita Kholostova
-Welcome to my GitHub profile! I'm a Data Analyst and AI Researcher passionate about the intersection of AI, Web3, and cryptocurrency technologies. With hands-on experience at Verizon and MIT AI Research, I combine my technical expertise with a deep interest in emerging technologies.
+
+Welcome to my GitHub! I'm Margarita, an IT student at Northeastern University with a strong passion for Machine Learning, Data Analytics, and emerging technologies, including AI and cryptocurrency.
 
 ## 🚀 Professional Experience & Interests
-* **AI & Data Analytics**: Currently working as a BI Analyst at Verizon, processing 1M+ daily network events
-* **Blockchain & Web3**: Exploring decentralized technologies and their integration with traditional systems
-* **Cryptocurrency**: Actively studying crypto ecosystems and their underlying technical architectures
-* **AI Research**: Former researcher at MIT, working with large-scale ML systems and computer vision
 
-## 💡 Technical Expertise
-* **AI/ML**: PyTorch, TensorFlow, CNNs, Transformers
-* **Data Engineering**: Spark, Airflow, Kafka, PostgreSQL, MongoDB
-* **Analytics**: Python (scikit-learn, Pandas, NumPy), Power BI, Tableau
-* **Emerging Tech**: Web3 frameworks, blockchain technologies
+* **Machine Learning & AI**: Experienced in developing predictive models using neural networks and ensemble methods.
+* **Data Analytics**: Skilled at analyzing datasets, performing exploratory data analysis (EDA), and visualizing insights.
+* **Blockchain & Cryptocurrency**: Actively exploring blockchain technology and crypto market analytics.
+* **Research & Projects**: Collaborated with MIT on AI projects classifying images of microorganisms and plants from the NY Botanical Garden; involved in predicting ecological impacts of diseases.
 
-## 🏆 Key Projects
-* **Healthcare ML**: Built interpretable AI frameworks with 88% ROC-AUC
-* **Computer Vision**: Developed classification system for NY Botanical Garden (93% accuracy)
-* **Network Analytics**: Created automated 5G network performance monitoring systems
-* **Exploring**: Currently working on projects combining AI with blockchain technologies
+## 💡 Technical Skills
+
+* **Languages & Libraries**: Python (scikit-learn, pandas, NumPy, PyTorch, TensorFlow), R (tidyverse, rpart)
+* **Analytics & Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+* **Data Engineering**: PostgreSQL, Spark, Airflow
+* **Tools & Frameworks**: Git, Docker, Jupyter Notebooks
+
+## 🏆 Highlighted Projects
+
+* **Healthcare Analytics**: Developed predictive models for hospital survival rates and treatment costs, focusing on ethical considerations and interpretability.
+* **Computer Vision**: Built classification models achieving 93% accuracy on NY Botanical Garden datasets.
+* **Business Analytics at Verizon**: Interned as a BI analyst, streamlining operational data processes and analytics.
+* **Crypto Market Analysis**: Conducting ongoing analyses exploring market dynamics and investment strategies in cryptocurrencies.
 
 ## 🎓 Education
-* Master's in Logistics & Customs from New University
-* BS in IT from Northeastern University
-* Additional certifications in ML and Cloud Computing
 
-## 📫 Connect With Me
-* LinkedIn: [www.linkedin.com/in/kholostovamk/](www.linkedin.com/in/kholostovamk/)
-* Email: Kholostova.m@gmail.com
+* **B.S. in Information Technology**, Northeastern University (Expected 2026)
+* **Degree in Customs & Logistics**, Russia
+* Certifications in Machine Learning, Predictive Analytics, and Cloud Computing
 
-I'm passionate about the convergence of AI, Web3, and cryptocurrency technologies. Whether you're interested in collaborative projects, technical discussions, or exploring innovative solutions in these domains, I'm always excited to connect! Let's build the future of tech together! 🚀
+## 📫 Connect with Me
+
+* LinkedIn: [www.linkedin.com/in/kholostovamk](https://www.linkedin.com/in/kholostovamk/)
+* Email: [Kholostova.m@gmail.com](mailto:Kholostova.m@gmail.com)
+
+I’m always open to discussions, collaborations, or insights related to AI, machine learning, data analytics, and blockchain. Let’s connect and innovate together! 🚀
