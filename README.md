@@ -1,37 +1,28 @@
-# Margarita Kholostova
+# Margarita (Margo) Kholostova
 
-Welcome to my GitHub! I'm Margarita, an IT student at Northeastern University with a strong passion for Machine Learning, Data Analytics, and emerging technologies, including AI and cryptocurrency.
+MS in Artificial Intelligence student at Northeastern University (Khoury College) and Network Assurance Engineer at Verizon in Boston. I build machine learning models on messy, real-world data and do technical research on blockchain projects.
 
-## 🚀 Professional Experience & Interests
+## Projects
 
-* **Machine Learning & AI**: Experienced in developing predictive models using neural networks and ensemble methods.
-* **Data Analytics**: Skilled at analyzing datasets, performing exploratory data analysis (EDA), and visualizing insights.
-* **Blockchain & Cryptocurrency**: Actively exploring blockchain technology and crypto market analytics.
-* **Research & Projects**: Collaborated with MIT on AI projects classifying images of microorganisms and plants from the NY Botanical Garden; involved in predicting ecological impacts of diseases.
+| Project | What it is |
+|---|---|
+| [HomeOnTheEdge: AI Insurance Risk Advisor](https://github.com/kholostovamk/Financial-Disaster-Impact-Mitigation-Advisor) | Hackathon team project. A LangGraph agent pipeline with a Streamlit interface that reads a home insurance policy PDF, assesses photos of the house, predicts disaster risk with an XGBoost model trained on FEMA and NOAA data, and flags gaps between the coverage and the estimated risk. |
+| [Predicting White-Nose Syndrome Spread](https://github.com/kholostovamk/BatProject-BTTAI) | Built during the Break Through Tech AI fellowship at MIT, with BioInterphase as the project host. I merged bat population, disease detection, and NA-CORDEX climate data, then compared decision trees, SVMs, random forests, and Gaussian processes to forecast which regions were at risk in 2024. Mean precipitation came out as a key driver. |
+| [Hospital Survival and Cost Prediction](https://github.com/kholostovamk/Projects/tree/main/ML_Classification_Regression_SUPPORT_Study) | Classification and regression models on the SUPPORT hospital study, predicting patient survival and treatment cost with a focus on interpretable results. |
 
-## 💡 Technical Skills
+## Skills
 
-* **Languages & Libraries**: Python (scikit-learn, pandas, NumPy, PyTorch, TensorFlow), R (tidyverse, rpart)
-* **Analytics & Visualization**: Power BI, Tableau, Matplotlib, Seaborn
-* **Data Engineering**: PostgreSQL, Spark, Airflow
-* **Tools & Frameworks**: Git, Docker, Jupyter Notebooks
+Python (pandas, NumPy, scikit-learn, XGBoost, xarray), LangGraph, Streamlit, Jupyter, R, SQL, MongoDB, C++, Git, Power BI, Tableau
 
-## 🏆 Highlighted Projects
+## Education
 
-* **Healthcare Analytics**: Developed predictive models for hospital survival rates and treatment costs, focusing on ethical considerations and interpretability.
-* **Computer Vision**: Built classification models achieving 93% accuracy on NY Botanical Garden datasets.
-* **Business Analytics at Verizon**: Interned as a BI analyst, streamlining operational data processes and analytics.
-* **Crypto Market Analysis**: Conducting ongoing analyses exploring market dynamics and investment strategies in cryptocurrencies.
+- MS in Artificial Intelligence, Northeastern University (expected 2028)
+- BS in Information Technology, Northeastern University (2026)
+- Degree in Customs and Logistics, Russia
+- Break Through Tech AI fellowship at MIT, including eCornell Machine Learning Foundations
 
-## 🎓 Education
+## Contact
 
-* **B.S. in Information Technology**, Northeastern University (Expected 2026)
-* **Degree in Customs & Logistics**, Russia
-* Certifications in Machine Learning, Predictive Analytics, and Cloud Computing
+[LinkedIn](https://www.linkedin.com/in/kholostovamk/) · [Email](mailto:Kholostova.m@gmail.com) · [X](https://twitter.com/kholostovamk)
 
-## 📫 Connect with Me
-
-* LinkedIn: [www.linkedin.com/in/kholostovamk](https://www.linkedin.com/in/kholostovamk/)
-* Email: [Kholostova.m@gmail.com](mailto:Kholostova.m@gmail.com)
-
-I’m always open to discussions, collaborations, or insights related to AI, machine learning, data analytics, and blockchain. Let’s connect and innovate together! 🚀
+Open to conversations about machine learning, data analysis, and blockchain research.
